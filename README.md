@@ -30,5 +30,6 @@ Features from the paper we implemented:
      - Static reshard — kill a server outside training, redistribute orphaned weights to survivors, verify correctness
      - Live reshard — kill a server mid-training, recover weights, reconfigure ring and workers, resume training
   - Experiments: compared checkpoint vs chain replication recovery at different failure points
+4. **Sidecar evaluation**
 
 See writeup.pdf for more details
