@@ -1,14 +1,5 @@
 # distributed-model-training
 ```
-distributed-model-training/
-│
-├── server.py            # Parameter server node
-├── worker.py            # Worker node
-├── hash_ring.py         # Consistent hashing
-├── load_mnist.py        # MNIST loading + batching
-├── config.py            # Hyperparameters
-└── main.py              # Runs the script
-
 Setup:
 source venv/bin/activate
 pip install -r requirements.txt
