@@ -1,0 +1,6 @@
+numpy
+tensorflow
+ray
+matplotlib
+pytest
+ray
